@@ -1,0 +1,11 @@
+opencv-python
+opencv-contrib-python
+numpy
+pickle-mixin
+flask
+streamlit
+pandas
+Pillow
+scikit-learn
+pywin32  # Required for Dispatch on Windows
+streamlit-autorefresh
