@@ -13,8 +13,8 @@ The **Face Recognition Attendance System** is an AI-powered application that aut
 
 #### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/kabirkohli123/face-recognition-attendance.git
-cd face-recognition-attendance
+git clone https://github.com/kabirkohli123/Face-Recognition-Attendance-System
+cd Face-Recognition-Attendance-System
 ```
 
 #### 2️⃣ Install Dependencies  
